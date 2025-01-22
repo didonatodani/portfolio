@@ -49,6 +49,9 @@ p{
     margin: 0 auto;
     max-width: 1024px;
   }
+  body #contact-section, #stack-section, #projects-section{
+    padding: 0 0 !important;
+  }
 }
 
 /* BREAKPOINT:
