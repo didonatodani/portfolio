@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 
 import Logo from "../../assets/logo.jpeg";
 import MenuIcon from "../../assets/menu.svg";
-import Sidebar from "../Sidebar/Sidebar";
+import Sidebar from "../Sidebar/Sidebar.jsx";
 // import CloseMenuIcon from "../../assets/close.png"
 
 function Header() {

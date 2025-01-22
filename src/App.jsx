@@ -1,18 +1,15 @@
 import "./App.css";
-import Header from "./components/header/Header";
-import HelloSection from "./components/HelloSection/HelloSection";
-import Footer from "./components/Footer/Footer";
-// import Sidebar from "./components/Sidebar/Sidebar";
-import ContactSection from "./components/ContactSection/ContactSection";
-import StackSection from "./components/StackSection/StackSection";
-import ProjectsSection from "./components/ProjectsSection/ProjectsSection";
+import Header from "./components/header/Header.jsx";
+import HelloSection from "./components/HelloSection/HelloSection.jsx";
+import Footer from "./components/Footer/Footer.jsx";
+import ContactSection from "./components/ContactSection/ContactSection.jsx";
+import StackSection from "./components/StackSection/.jsx";
+import ProjectsSection from "./components/ProjectsSection/ProjectsSection.jsx";
 
 function App() {
   return (
     <>
       <Header />
-      {/* veo si el sidebar va aqui o en el header */}
-      {/* <Sidebar /> */}
       <HelloSection />
       <ContactSection />
       <StackSection />
