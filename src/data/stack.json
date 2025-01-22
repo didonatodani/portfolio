@@ -1,0 +1,34 @@
+[
+    {
+      "stack": "React.js",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+    },
+    {
+      "stack": "SASS",
+      "image_url": "https://cdn.worldvectorlogo.com/logos/sass-1.svg"
+    },
+    {
+      "stack": "JavaScript",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+    },
+    {
+      "stack": "TypeScript",
+      "image_url": "https://cdn.worldvectorlogo.com/logos/typescript-2.svg"
+    },
+    {
+      "stack": "Node.js",
+      "image_url": "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
+    },
+    {
+      "stack": "MongoDB",
+      "image_url": "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
+    },
+    {
+      "stack": "My SQL",
+      "image_url": "https://cdn.iconscout.com/icon/free/png-512/free-sql-icon-download-in-svg-png-gif-file-formats--database-server-data-storage-format-web-hosting-pack-news-and-media-icons-6766117.png?f=webp&w=256"
+    },
+    {
+      "stack": "Git",
+      "image_url": "https://cdn.iconscout.com/icon/free/png-512/free-git-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175218.png?f=webp&w=256"
+    }
+  ]

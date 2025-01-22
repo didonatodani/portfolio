@@ -1,0 +1,57 @@
+[
+    {
+      "project_name": "Ironhub - Ironhack's Final Project",
+      "description": "Full-stack SPA for Ironhack students with forum posts, user profiles, and CRUD operations.",
+      "tech_stack": ["React.js", "Node.js", "MongoDB", "Cypress"],
+      "repository_links": [
+        "https://github.com/didonatodani/ironhub-front",
+        "https://github.com/didonatodani/IronHub-Backend"
+      ],
+      "deployed_version_link": "https://ironhub-front.netlify.app/"
+    },
+    {
+      "project_name": "PURRRfect Pairs - Memory Game",
+      "description": "A memory game with card-shuffling, background music, and responsive design.",
+      "tech_stack": ["HTML", "CSS", "JavaScript", "OOP"],
+      "repository_links": [
+        "https://github.com/didonatodani/game-project"
+      ],
+      "deployed_version_link": "https://didonatodani.github.io/game-project/"
+    },
+    {
+      "project_name": "Watch Vault",
+      "description": "React SPA for managing personalized movie lists, featuring real-time updates via Supabase.",
+      "tech_stack": ["React.js", "Supabase", "RESTful API"],
+      "repository_links": [
+        "https://github.com/didonatodani/dkd-project"
+      ],
+      "deployed_version_link": "https://watch-vault.netlify.app/"
+    },
+    {
+      "project_name": "Chef's Choice app",
+      "description": "React app for managing recipes, including CRUD operations and a responsive design.",
+      "tech_stack": ["React.js", "Web Services API", "CRUD"],
+      "repository_links": [
+        "https://github.com/didonatodani/chefs-choice-app"
+      ],
+      "deployed_version_link": "hhttps://chefs-choice-app.netlify.app/"
+    },
+    {
+      "project_name": "MIETIS - WebDev & UX/UI Students MVP",
+      "description": "Collaborative MVP project adding a bag customization feature to the Mietis website.",
+      "tech_stack": ["React.js", "CSS", "UX/UI Design"],
+      "repository_links": [
+        "https://github.com/didonatodani/mietis"
+      ],
+      "deployed_version_link": "https://mietis.netlify.app/"
+    },
+    {
+      "project_name": "Mag Lennon Web Page",
+      "description": "My first static, responsive website for the intro Web Dev Coderhouse course.",
+      "tech_stack": ["HTML", "CSS", "SASS", "Bootstrap", "SEO"],
+      "repository_links": [
+        "https://github.com/didonatodani/entregaFinal"
+      ],
+      "deployed_version_link": "https://didonatodani.github.io/entregaFinal/index.html"
+    }
+  ]
