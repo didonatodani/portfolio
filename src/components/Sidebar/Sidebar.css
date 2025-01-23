@@ -58,7 +58,7 @@ aside{
 
 /* MEDIA QUERIES */
 
-@media (min-width: 768px){
+@media (min-width: 769px){
     aside{
         background-color: transparent;
         width: 25rem;

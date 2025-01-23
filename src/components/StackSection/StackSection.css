@@ -2,14 +2,12 @@
     padding-left: 2rem;
 }
 .stack-cards-container {
-    max-width: 60rem;
-    margin: 0 auto;
-    padding: 5rem 2rem;
+    max-width: 30rem;
+    padding: 5rem 0;
     display: flex;
-    justify-content: space-around;
+    justify-content:left;
     align-items: center;
     flex-wrap: wrap;
-    gap: 2rem;
 }
 
 .stack-card {
@@ -45,13 +43,18 @@
     font-size: 1.5rem;
     font-weight: 200;
 }
+
+@media (min-width: 400px){
+    .stack-cards-container{
+        max-width: 60rem;
+        margin: 0;
+        padding-left: 0;
+    }
+}
 @media (min-width:769px){
     #stack-section{
         padding: 0 7rem;
     }
-    .stack-cards-container{
-        margin: 0;
-        padding-left: 0;
-        gap: 3rem;
-    }
+    
 }
+

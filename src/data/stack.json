@@ -4,8 +4,16 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
     },
     {
+      "stack": "CSS",
+      "image_url": "https://cdn.worldvectorlogo.com/logos/css-3.svg"
+    },
+    {
       "stack": "SASS",
       "image_url": "https://cdn.worldvectorlogo.com/logos/sass-1.svg"
+    },
+    {
+      "stack": "Bootstrap",
+      "image_url": "https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"
     },
     {
       "stack": "JavaScript",
@@ -20,12 +28,20 @@
       "image_url": "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
     },
     {
+      "stack": "Express.js",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFRztssUmVkQcDl8a8Jd4u8mZxOjX5jydMQA&s"
+    },
+    {
       "stack": "MongoDB",
       "image_url": "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
     },
     {
       "stack": "My SQL",
       "image_url": "https://cdn.iconscout.com/icon/free/png-512/free-sql-icon-download-in-svg-png-gif-file-formats--database-server-data-storage-format-web-hosting-pack-news-and-media-icons-6766117.png?f=webp&w=256"
+    },
+    {
+      "stack": "Postman",
+      "image_url": "https://cdn.worldvectorlogo.com/logos/postman.svg"
     },
     {
       "stack": "Git",
