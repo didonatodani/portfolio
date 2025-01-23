@@ -1,3 +1,33 @@
-#contact-section{
-    padding: 2rem;
+#contact-section {
+    padding: 3rem 2rem;
+
+    .contact-description {
+        margin: 3rem 0;
+        max-width: 60rem;
+    }
+
+    .contact-section-links {
+        width: fit-content;
+        border-radius: 5rem;
+        border: 1px solid var(--fonts);
+        padding: 1rem 1.5rem;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 1.5rem;
+
+        a {
+            font-size: 1.6rem;
+            text-decoration-color: var(--secondary);
+            font-weight: 400;
+            transition: all 0.5s ease-in-out;
+        }
+
+        a:hover {
+            color: var(--accent);
+            transform: scale(105%);
+            transition: all 0.5s ease-in-out;
+            text-decoration-thickness: 2px;
+        }
+    }
 }

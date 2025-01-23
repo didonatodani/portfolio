@@ -1,9 +1,10 @@
 #projects-section{
     padding-left: 2rem;
     padding-right: 2rem;
+    padding-bottom: 4rem;
 }
 .projects-cards-container {
-    padding: 5rem 0;
+    padding: 0;
     display: flex;
     flex-direction: column;
 }
