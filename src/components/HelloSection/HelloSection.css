@@ -1,6 +1,6 @@
 #hello-section{
     height: calc(100vh - 10rem);
-    padding: 5rem 3rem;
+    padding: 5rem 2rem;
     align-content: end;
     h2{
         font-size: 6rem;

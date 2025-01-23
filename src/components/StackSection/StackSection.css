@@ -1,5 +1,6 @@
 #stack-section{
     padding-left: 2rem;
+    padding-right: 2rem;
 }
 .stack-cards-container {
     max-width: 30rem;
@@ -53,7 +54,7 @@
 }
 @media (min-width:769px){
     #stack-section{
-        padding: 0 7rem;
+        padding: 0 2rem;
     }
     .stack-cards-container{
         padding-bottom: 5rem;
