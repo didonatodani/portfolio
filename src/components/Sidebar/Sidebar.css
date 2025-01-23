@@ -40,8 +40,9 @@ aside{
 }
 
 .ref-span:hover {
-    background-color: var(--accent); /* Color the span on hover */
-    color: var(--background); /* Change text color if needed to maintain contrast */
+    background: var(--gradient); /* Color the span on hover */
+    color: var(--background);
+    transition: 0.4s; /* Change text color if needed to maintain contrast */
 }
 
 .side-ref .ref-span::after {
