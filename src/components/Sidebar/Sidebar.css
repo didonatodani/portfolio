@@ -39,7 +39,7 @@ aside{
     transition: background-color 0.5s ease;
 }
 
-.ref-span:hover {
+.ref-span:hover, .active {
     background: var(--gradient); /* Color the span on hover */
     color: var(--background);
     transition: 0.4s; /* Change text color if needed to maintain contrast */

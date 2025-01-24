@@ -38,7 +38,7 @@ p, span{
 @media (max-width: 760px){
   /* so that navbar doesnt cover titles */
 #contact-section, #stack-section, #projects-section{
-  padding-top: 10.5rem;
+  padding-top: 10.5rem!important;
 }
 }
 
@@ -51,7 +51,7 @@ p, span{
     max-width: 1024px;
   }
   body #hello-section, #contact-section, #stack-section, #projects-section{
-    padding: 0 0 4rem !important;
+    padding: 0 0 5rem !important;
   }
 }
 
