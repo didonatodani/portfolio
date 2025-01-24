@@ -18,6 +18,8 @@
 
 .logo {
     width: 8rem;
+    border-radius: 4rem;
+    border: 1.5px solid var(--fonts);
 }
 
 

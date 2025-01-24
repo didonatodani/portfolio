@@ -10,8 +10,17 @@
       "deployed_version_link": "https://ironhub-front.netlify.app/"
     },
     {
+      "project_name": "Mag Lennon Web Page",
+      "description": "My first static, responsive website for the intro Web Dev Coderhouse course.",
+      "tech_stack": ["HTML", "CSS", "SASS", "Bootstrap", "SEO"],
+      "repository_links": [
+        "https://github.com/didonatodani/entregaFinal"
+      ],
+      "deployed_version_link": "https://didonatodani.github.io/entregaFinal/index.html"
+    },
+    {
       "project_name": "PURRRfect Pairs - Memory Game",
-      "description": "A memory game with card-shuffling, background music, and responsive design.",
+      "description": "A memory game with card-shuffling, background music, and developed using OOP.",
       "tech_stack": ["HTML", "CSS", "JavaScript", "OOP"],
       "repository_links": [
         "https://github.com/didonatodani/game-project"
@@ -44,14 +53,5 @@
         "https://github.com/didonatodani/mietis"
       ],
       "deployed_version_link": "https://mietis.netlify.app/"
-    },
-    {
-      "project_name": "Mag Lennon Web Page",
-      "description": "My first static, responsive website for the intro Web Dev Coderhouse course.",
-      "tech_stack": ["HTML", "CSS", "SASS", "Bootstrap", "SEO"],
-      "repository_links": [
-        "https://github.com/didonatodani/entregaFinal"
-      ],
-      "deployed_version_link": "https://didonatodani.github.io/entregaFinal/index.html"
     }
   ]

@@ -74,6 +74,6 @@ aside{
 @media (min-width:1025px){
     /* the sidebar won't move further */
     aside{
-        right: calc(50% - 562px);
+        right: calc(50% - 655px);
     }
 }
