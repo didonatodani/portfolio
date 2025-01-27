@@ -50,7 +50,7 @@ function Header() {
           <img
             src={MenuIcon}
             alt="menu icon"
-            className="menu icon"
+            className="icon"
             onClick={() => {
               showMenu();
             }}

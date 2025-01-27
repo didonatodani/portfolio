@@ -16,7 +16,7 @@ function Sidebar({ showCloseButton, closeMenu }) {
         <img
           src={CloseIcon}
           alt="close menu icon"
-          className="close-icon"
+          className="close-icon icon"
           onClick={() => {
             closeMenu();
           }}

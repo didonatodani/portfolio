@@ -12,7 +12,6 @@
     display: flex;
     align-items: end;
     justify-content: space-between;
-    /* delete: */
     border-bottom: 1px solid var(--fonts);
 }
 
@@ -20,6 +19,17 @@
     width: 8rem;
     border-radius: 4rem;
     border: 1.5px solid var(--fonts);
+}
+
+.icon {
+    transition: all 0.5s ease-in-out;
+
+}
+
+.icon:hover {
+    cursor: pointer;
+    transform: scale(110%);
+    transition: all 0.4s ease-in-out;
 }
 
 
