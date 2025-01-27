@@ -1,18 +1,21 @@
-#hello-section{
+#hello-section {
     height: calc(100vh - 13rem);
     padding: 5rem 2rem;
     align-content: end;
-    h2{
+
+    h2 {
         font-size: 6rem;
         /* to make it wrap at the same time as h1 */
         margin-right: 9rem;
     }
-    h1{
+
+    h1 {
         font-size: 11rem;
-        margin: 1rem  0 3rem;
+        margin: 1rem 0 3rem;
     }
 
-    .hello-btn{
+    .hello-btn {
+        font-size: 1.7rem;
         padding: 1rem 3rem;
         border: 1px solid var(--fonts);
         border-radius: 3rem;
@@ -20,24 +23,25 @@
         transition: 0.5s ease-in-out;
         text-decoration: none;
     }
-    .hello-btn:hover{
+
+    .hello-btn:hover {
         cursor: pointer;
         background: linear-gradient(180deg, hsla(1, 94%, 87%, 1) 18%, rgb(255, 135, 23) 88%);
         box-shadow: 0 3px 50px -3px var(--disabled);
         transition: 0.5s ease-in-out;
     }
-    
+
 }
 
-@media (min-width: 769px){
-    #hello-section{
-        h2{
+@media (min-width: 769px) {
+    #hello-section {
+        h2 {
             font-size: 7.5rem;
         }
-        h1{
+
+        h1 {
             font-size: 12rem;
-            margin: 1rem  0 3rem;
+            margin: 1rem 0 3rem;
         }
     }
 }
-
