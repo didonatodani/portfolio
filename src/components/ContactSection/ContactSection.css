@@ -6,6 +6,7 @@
         max-width: 60rem;
     }
     #description-span{
+        font-size: 1.8rem;
         font-weight: 600;
     }
 
@@ -20,7 +21,6 @@
         gap: 1.5rem;
 
         a {
-            font-size: 1.6rem;
             text-decoration-color: var(--secondary);
             font-weight: 400;
             transition: all 0.5s ease-in-out;

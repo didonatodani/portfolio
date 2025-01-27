@@ -15,7 +15,6 @@
     }
 
     .hello-btn {
-        font-size: 1.7rem;
         padding: 1rem 3rem;
         border: 1px solid var(--fonts);
         border-radius: 3rem;
