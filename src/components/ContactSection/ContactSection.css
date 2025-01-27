@@ -5,6 +5,9 @@
         margin: 3rem 0;
         max-width: 60rem;
     }
+    #description-span{
+        font-weight: 600;
+    }
 
     .contact-section-links {
         width: fit-content;
@@ -29,5 +32,13 @@
             transition: all 0.5s ease-in-out;
             text-decoration-thickness: 3px;
         }
+    }
+}
+
+/* MEDIA QUERIES */
+
+@media (min-width: 769px) {
+    #contact-section{
+        padding-bottom: 10rem;
     }
 }

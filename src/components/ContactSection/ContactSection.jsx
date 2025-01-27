@@ -5,7 +5,7 @@ function ContactSection() {
     <section id="contact-section">
       <p className="contact-description">
         Hey there! It's Dani here, a creative web dev passionate about building
-        efficient and user-friendly applications. <span id="description-span">Let's build something great!</span>
+        efficient and user-friendly applications. <span id="description-span">Let's make something great!</span>
       </p>
       <div className="contact-section-links">
         <a href="mailto:didonatovdaniela@gmail.com">Email me</a>
