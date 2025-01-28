@@ -2,7 +2,7 @@
   {
     "project_name": "Ironhub - Ironhack's Final Project",
     "description": "Full-stack SPA for Ironhack students with forum posts, user profiles, and CRUD operations.",
-    "tech_stack": ["React.js", "Node.js", "MongoDB", "Cypress"],
+    "tech_stack": ["React.js", "Node.js", "MongoDB", "Cloudinary", "Cypress"],
     "repository_links": [
       "https://github.com/didonatodani/ironhub-front",
       "https://github.com/didonatodani/IronHub-Backend"
