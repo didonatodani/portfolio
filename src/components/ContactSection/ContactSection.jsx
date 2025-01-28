@@ -8,7 +8,8 @@ function ContactSection() {
         efficient and user-friendly applications. <span id="description-span">Let's make something great!</span>
       </p>
       <div className="contact-section-links">
-        <a href="mailto:didonatovdaniela@gmail.com">Email me</a>
+        <a href="mailto:didonatovdaniela@gmail.com">Email
+        </a>
         <a
           href="https://www.linkedin.com/in/dani-di-donato-web-dev/"
           target="_blank"

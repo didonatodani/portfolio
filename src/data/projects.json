@@ -2,7 +2,7 @@
   {
     "project_name": "Ironhub - Ironhack's Final Project",
     "description": "Full-stack SPA for Ironhack students with forum posts, user profiles, and CRUD operations.",
-    "tech_stack": ["React", "Node.js", "MongoDB", "Cloudinary"],
+    "tech_stack": ["React", "NodeJS", "MongoDB", "Cloudinary"],
     "repository_links": [
       "https://github.com/didonatodani/ironhub-front",
       "https://github.com/didonatodani/IronHub-Backend"
@@ -12,7 +12,7 @@
   {
     "project_name": "Mag Lennon Web Page",
     "description": "My first static, responsive website for the intro Web Dev Coderhouse course.",
-    "tech_stack": ["HTML", "CSS", "SASS", "Bootstrap", "SEO"],
+    "tech_stack": ["HTML", "SASS", "Bootstrap", "SEO"],
     "repository_links": ["https://github.com/didonatodani/entregaFinal"],
     "deployed_version_link": "https://didonatodani.github.io/entregaFinal/index.html"
   },
