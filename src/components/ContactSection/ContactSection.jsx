@@ -12,6 +12,7 @@ function ContactSection() {
         <a
           href="https://www.linkedin.com/in/dani-di-donato-web-dev/"
           target="_blank"
+          rel="noopener noreferrer"
           className="contact-link"
         >
           LinkedIn
@@ -19,14 +20,15 @@ function ContactSection() {
         <a
           href="https://github.com/didonatodani/"
           target="_blank"
+          rel="noopener noreferrer"
           className="contact-link"
         >
           GitHub
         </a>
         <a
-          href="../../public\DDDV.pdf"
-          target="_blank"
+          href="/DDDV.pdf"
           rel="noopener noreferrer"
+          target="_blank"
           className="contact-link"
         >
           Resume
